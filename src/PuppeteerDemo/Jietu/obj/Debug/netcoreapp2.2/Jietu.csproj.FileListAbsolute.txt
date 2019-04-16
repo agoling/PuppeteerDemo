@@ -1,0 +1,11 @@
+D:\Demo\PuppeteerDemo\Jietu\bin\Debug\netcoreapp2.2\Jietu.deps.json
+D:\Demo\PuppeteerDemo\Jietu\bin\Debug\netcoreapp2.2\Jietu.runtimeconfig.json
+D:\Demo\PuppeteerDemo\Jietu\bin\Debug\netcoreapp2.2\Jietu.runtimeconfig.dev.json
+D:\Demo\PuppeteerDemo\Jietu\bin\Debug\netcoreapp2.2\Jietu.dll
+D:\Demo\PuppeteerDemo\Jietu\bin\Debug\netcoreapp2.2\Jietu.pdb
+D:\Demo\PuppeteerDemo\Jietu\obj\Debug\netcoreapp2.2\Jietu.csproj.CoreCompileInputs.cache
+D:\Demo\PuppeteerDemo\Jietu\obj\Debug\netcoreapp2.2\Jietu.AssemblyInfoInputs.cache
+D:\Demo\PuppeteerDemo\Jietu\obj\Debug\netcoreapp2.2\Jietu.AssemblyInfo.cs
+D:\Demo\PuppeteerDemo\Jietu\obj\Debug\netcoreapp2.2\Jietu.dll
+D:\Demo\PuppeteerDemo\Jietu\obj\Debug\netcoreapp2.2\Jietu.pdb
+D:\Demo\PuppeteerDemo\Jietu\obj\Debug\netcoreapp2.2\Jietu.csprojAssemblyReference.cache

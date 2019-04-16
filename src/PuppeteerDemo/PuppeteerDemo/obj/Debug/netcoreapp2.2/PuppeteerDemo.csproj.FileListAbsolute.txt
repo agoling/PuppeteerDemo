@@ -1,0 +1,11 @@
+D:\Demo\PuppeteerDemo\PuppeteerDemo\bin\Debug\netcoreapp2.2\PuppeteerDemo.deps.json
+D:\Demo\PuppeteerDemo\PuppeteerDemo\bin\Debug\netcoreapp2.2\PuppeteerDemo.runtimeconfig.json
+D:\Demo\PuppeteerDemo\PuppeteerDemo\bin\Debug\netcoreapp2.2\PuppeteerDemo.runtimeconfig.dev.json
+D:\Demo\PuppeteerDemo\PuppeteerDemo\bin\Debug\netcoreapp2.2\PuppeteerDemo.dll
+D:\Demo\PuppeteerDemo\PuppeteerDemo\obj\Debug\netcoreapp2.2\PuppeteerDemo.csproj.CoreCompileInputs.cache
+D:\Demo\PuppeteerDemo\PuppeteerDemo\obj\Debug\netcoreapp2.2\PuppeteerDemo.AssemblyInfoInputs.cache
+D:\Demo\PuppeteerDemo\PuppeteerDemo\obj\Debug\netcoreapp2.2\PuppeteerDemo.AssemblyInfo.cs
+D:\Demo\PuppeteerDemo\PuppeteerDemo\bin\Debug\netcoreapp2.2\PuppeteerDemo.pdb
+D:\Demo\PuppeteerDemo\PuppeteerDemo\obj\Debug\netcoreapp2.2\PuppeteerDemo.dll
+D:\Demo\PuppeteerDemo\PuppeteerDemo\obj\Debug\netcoreapp2.2\PuppeteerDemo.pdb
+D:\Demo\PuppeteerDemo\PuppeteerDemo\obj\Debug\netcoreapp2.2\PuppeteerDemo.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\Demo\PuppeteerDemo\Refresh\bin\Debug\netcoreapp2.2\Refresh.deps.json
+D:\Demo\PuppeteerDemo\Refresh\bin\Debug\netcoreapp2.2\Refresh.runtimeconfig.json
+D:\Demo\PuppeteerDemo\Refresh\bin\Debug\netcoreapp2.2\Refresh.runtimeconfig.dev.json
+D:\Demo\PuppeteerDemo\Refresh\bin\Debug\netcoreapp2.2\Refresh.dll
+D:\Demo\PuppeteerDemo\Refresh\obj\Debug\netcoreapp2.2\Refresh.csprojAssemblyReference.cache
+D:\Demo\PuppeteerDemo\Refresh\obj\Debug\netcoreapp2.2\Refresh.csproj.CoreCompileInputs.cache
+D:\Demo\PuppeteerDemo\Refresh\obj\Debug\netcoreapp2.2\Refresh.AssemblyInfoInputs.cache
+D:\Demo\PuppeteerDemo\Refresh\obj\Debug\netcoreapp2.2\Refresh.AssemblyInfo.cs
+D:\Demo\PuppeteerDemo\Refresh\bin\Debug\netcoreapp2.2\Refresh.pdb
+D:\Demo\PuppeteerDemo\Refresh\obj\Debug\netcoreapp2.2\Refresh.dll
+D:\Demo\PuppeteerDemo\Refresh\obj\Debug\netcoreapp2.2\Refresh.pdb

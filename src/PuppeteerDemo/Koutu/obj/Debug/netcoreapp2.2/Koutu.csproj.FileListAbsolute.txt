@@ -1,0 +1,13 @@
+D:\Demo\PuppeteerDemo\Koutu\bin\Debug\netcoreapp2.2\Koutu.deps.json
+D:\Demo\PuppeteerDemo\Koutu\bin\Debug\netcoreapp2.2\Koutu.runtimeconfig.json
+D:\Demo\PuppeteerDemo\Koutu\bin\Debug\netcoreapp2.2\Koutu.runtimeconfig.dev.json
+D:\Demo\PuppeteerDemo\Koutu\bin\Debug\netcoreapp2.2\Koutu.dll
+D:\Demo\PuppeteerDemo\Koutu\obj\Debug\netcoreapp2.2\Koutu.csprojAssemblyReference.cache
+D:\Demo\PuppeteerDemo\Koutu\obj\Debug\netcoreapp2.2\Koutu.csproj.CoreCompileInputs.cache
+D:\Demo\PuppeteerDemo\Koutu\obj\Debug\netcoreapp2.2\Koutu.AssemblyInfoInputs.cache
+D:\Demo\PuppeteerDemo\Koutu\obj\Debug\netcoreapp2.2\Koutu.AssemblyInfo.cs
+D:\Demo\PuppeteerDemo\Koutu\bin\Debug\netcoreapp2.2\Koutu.pdb
+D:\Demo\PuppeteerDemo\Koutu\obj\Debug\netcoreapp2.2\Koutu.dll
+D:\Demo\PuppeteerDemo\Koutu\obj\Debug\netcoreapp2.2\Koutu.pdb
+D:\Demo\PuppeteerDemo\Koutu\bin\Debug\netcoreapp2.2\AutoItX3.dll
+D:\Demo\PuppeteerDemo\Koutu\bin\Debug\netcoreapp2.2\AutoItX3_x64.dll

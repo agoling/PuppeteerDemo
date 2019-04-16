@@ -1,0 +1,13 @@
+D:\Demo\PuppeteerDemo\Jietu\bin\Release\netcoreapp2.2\win-x86\hostpolicy.dll
+D:\Demo\PuppeteerDemo\Jietu\bin\Release\netcoreapp2.2\win-x86\hostfxr.dll
+D:\Demo\PuppeteerDemo\Jietu\bin\Release\netcoreapp2.2\win-x86\Jietu.exe
+D:\Demo\PuppeteerDemo\Jietu\bin\Release\netcoreapp2.2\win-x86\Jietu.deps.json
+D:\Demo\PuppeteerDemo\Jietu\bin\Release\netcoreapp2.2\win-x86\Jietu.runtimeconfig.json
+D:\Demo\PuppeteerDemo\Jietu\bin\Release\netcoreapp2.2\win-x86\Jietu.runtimeconfig.dev.json
+D:\Demo\PuppeteerDemo\Jietu\bin\Release\netcoreapp2.2\win-x86\Jietu.dll
+D:\Demo\PuppeteerDemo\Jietu\bin\Release\netcoreapp2.2\win-x86\Jietu.pdb
+D:\Demo\PuppeteerDemo\Jietu\obj\Release\netcoreapp2.2\win-x86\Jietu.csproj.CoreCompileInputs.cache
+D:\Demo\PuppeteerDemo\Jietu\obj\Release\netcoreapp2.2\win-x86\Jietu.AssemblyInfoInputs.cache
+D:\Demo\PuppeteerDemo\Jietu\obj\Release\netcoreapp2.2\win-x86\Jietu.AssemblyInfo.cs
+D:\Demo\PuppeteerDemo\Jietu\obj\Release\netcoreapp2.2\win-x86\Jietu.dll
+D:\Demo\PuppeteerDemo\Jietu\obj\Release\netcoreapp2.2\win-x86\Jietu.pdb
