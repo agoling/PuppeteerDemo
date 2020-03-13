@@ -42,7 +42,7 @@ namespace Jietu
             };
 
             //await page.GoToAsync("http://192.168.0.107:98/static/index.html#/preview?recordid=059d67fea03a4c3687bc49ac04669968&t=6deb2042ec114ac291fadb2514182352&generate=true", navigationOption);
-            await page.GoToAsync("https://zhuangxiu.fjdaze.com/#/preview?recordid=1095a3231f704b419b8b0676fa8d147e&t=e1859920de894de394c577f802f67167&generate=true", navigationOption);
+            await page.GoToAsync("https://zhuangxiu.xxxxxx.com/#/preview?recordid=1095a3231f704b419b8b0676fa8d147e&t=e1859920de894de394c577f802f67167&generate=true", navigationOption);
             
 
             var o = new ScreenshotOptions { Type = ScreenshotType.Png, FullPage = true };

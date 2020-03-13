@@ -32,7 +32,7 @@ namespace Refresh
                 Width = 1366,
                 Height = 768
             });
-            await page.GoToAsync("https://oapi.dingtalk.com/connect/qrconnect?appid=dingoakpa9drsyzymtwxgw&response_type=code&scope=snsapi_login&state=web-occ&redirect_uri=http://occ.fjdaze.com/manage/DingTalkLogin");
+            await page.GoToAsync("https://oapi.dingtalk.com/connect/qrconnect?appid=dingoakpa9drsyzymtwxgw&response_type=code&scope=snsapi_login&state=web-occ&redirect_uri=http://occ.xxxxxx.com/manage/DingTalkLogin");
 
             //while (true)
             //{
